@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b30a80d292b787a438c5ecb271d1ad3f, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 42db9cdf1f5db64428616576f7aca809, type: 2}
+  - {fileID: 11400000, guid: a4c5d8e67f2612a4688ba821969d735f, type: 2}
+  - {fileID: 11400000, guid: 4d92c015dee00a94da811a16470b72f5, type: 2}
+  - {fileID: 11400000, guid: b02ca24d49b23a1458a6a0ab1816f300, type: 2}
+  - {fileID: 11400000, guid: f5a4e15b248b0124480411331728bc6d, type: 2}
+  - {fileID: 11400000, guid: a3fd211aa82e6274f95e73c3108d76d1, type: 2}
+  - {fileID: 11400000, guid: 5bf74472c039eb34db5c698430f4dd5d, type: 2}
+  - {fileID: 11400000, guid: 346742eb426154340beb6f1ce3c3bf53, type: 2}
+  - {fileID: 11400000, guid: da20e2d2dd1ba734a98ff33a59952a76, type: 2}
+  - {fileID: 11400000, guid: b5ba5e341f3480d4698de059ce5504a3, type: 2}
+  - {fileID: 11400000, guid: ad45138f688ff804ea25f8ba2914c191, type: 2}
+  InteractUI: {fileID: 11400000, guid: 42db9cdf1f5db64428616576f7aca809, type: 2}
+  GrabPinch: {fileID: 11400000, guid: a4c5d8e67f2612a4688ba821969d735f, type: 2}
+  GrabGrip: {fileID: 11400000, guid: 4d92c015dee00a94da811a16470b72f5, type: 2}
+  Pose: {fileID: 11400000, guid: b02ca24d49b23a1458a6a0ab1816f300, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: f5a4e15b248b0124480411331728bc6d, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: a3fd211aa82e6274f95e73c3108d76d1, type: 2}
+  Squeeze: {fileID: 11400000, guid: 5bf74472c039eb34db5c698430f4dd5d, type: 2}
+  Move: {fileID: 11400000, guid: 346742eb426154340beb6f1ce3c3bf53, type: 2}
+  Rotate: {fileID: 11400000, guid: da20e2d2dd1ba734a98ff33a59952a76, type: 2}
+  ChangeSize: {fileID: 11400000, guid: b5ba5e341f3480d4698de059ce5504a3, type: 2}
+  Jump: {fileID: 11400000, guid: ad45138f688ff804ea25f8ba2914c191, type: 2}
